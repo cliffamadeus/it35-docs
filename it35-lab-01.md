@@ -22,7 +22,10 @@ The students must be able to attain and document the following throughout the la
 
 *2.0 Adding a GitHub remote origin to the local Ionic Repository*
 - [ ] 2.1 On your GitHub account create a repository titled `it35-lab`, proceed without adding a `README.md`
-- [ ] 2.2 
+- [ ] 2.2 Enter the following commands
+- [ ] `git remote add origin https://github.com/{username}/it35-lab.git`
+- [ ] `git branch -M main`
+- [ ] `git push -u origin main`
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTcyMTgyNTU4N119
