@@ -35,4 +35,12 @@ the repository that was established from the `Laboratory 1` shall be deployed th
   **Note:** To ensure code readability and maintenance please secure a commit if the application is working
 
 7. GH Pages
-   - [ ] 
+   - [ ] On your terminal install the following package `npm install gh-pages --save-dev` in order to deploy your application into the gh-pages
+   - [ ] After installing the package add the following lines of code to your `package.json`:
+         
+         "homepage": "https://{username}.github.io/{repository-name}/"
+            "scripts": {
+            "predeploy" : "npm run build",
+            "deploy" : "gh-pages -d dist",
+         
+   - [ ] Then run the `npm deploy` to deploy your application
