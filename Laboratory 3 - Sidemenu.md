@@ -10,5 +10,5 @@ Laboratory 3
 8. Configure Sidemenu;
 9. Add logout button;
 10. Add details button and navigation for Home.tsx;
-11. npm run deploy;
+11. `npm run deploy`;
 12. Secure commits and push to feature/loginTemplate;
