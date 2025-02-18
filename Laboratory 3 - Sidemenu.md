@@ -4,7 +4,7 @@ Laboratory 3
 2. On your GitHub create a pull request and merge branches `main` and `dev-deployment`;
 3. Clone the `it35-lab` repository on your local device;
 4. On your terminal apply `npm install` command to install the needed packages for your Ionic project;
-5. create and checkout branch `feature/loginTemplate`;
+5. Create and checkout branch `feature/loginTemplate`;
 6. Create Template.tsx;
 7. Add initial pages and Login logic;
 8. Configure Sidemenu;
