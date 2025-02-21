@@ -44,3 +44,5 @@ the repository that was established from the `Laboratory 1` shall be deployed th
             "deploy" : "gh-pages -d dist",
          
    - [ ] Then run the `npm deploy` to deploy your application
+
+**Note:** Check the repository `Actions` tab to see the build status and deployment details
