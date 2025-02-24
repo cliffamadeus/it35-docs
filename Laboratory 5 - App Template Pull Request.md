@@ -9,7 +9,7 @@
 
 **Methodology**
 
- - [ ] 1. On your GitHub account create a Pull Request to merge the `main` to the `feature/tabsTemplate branch`;
+ - [ ] 1. On your `GitHub account` create a Pull Request to merge the `feature/tabsTemplate branch` to the `main` branch;
 
  - [ ] 2. Clone your repository to your local device;
 
