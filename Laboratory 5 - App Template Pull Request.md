@@ -3,9 +3,8 @@
 
 **Objectives**
 
-
-1.  
-2.  
+1.  Establish a documented pull request from `feature/tabsTemplate branch` to the `main` branch;
+2.  Explore the various Ionic components from the Ionic documentation.
 
 **Methodology**
 
