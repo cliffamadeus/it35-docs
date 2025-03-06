@@ -4,7 +4,7 @@
 **Objectives**
 
 1.  Establish a documented pull request from `feature/tabsTemplate branch` to the `main` branch;
-2.  Explore the various Ionic components from the Ionic documentation.
+2.  Explore the various Ionic components from the Ionic documentation. https://ionicframework.com/docs/components
 
 **Methodology**
 
