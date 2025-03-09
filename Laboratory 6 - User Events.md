@@ -7,7 +7,7 @@
 
 **Methodology**
 
- - [ ] 1. Create and checkout branch `feature/loginSignup`;
+ - [ ] 1. From the current `main` branch create and checkout branch `feature/loginSignup`;
 
  - [ ] 2. Create an user interface for user registration and login;
 
