@@ -4,6 +4,7 @@
 **Objectives**
 
 1.  Explore the usage of alerts, modals, toasts and other UI components from the  Ionic Documentation Website: https://ionicframework.com/docs/components
+2.  Integrate event driven concepts into an application feature.
 
 **Methodology**
 
