@@ -1,4 +1,4 @@
-# IT35-Lab-06 - User Events
+# IT35-Lab-06 - Login and Registration
 ## Description
 
 **Objectives**
