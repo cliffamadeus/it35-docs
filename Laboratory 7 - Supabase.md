@@ -1,4 +1,4 @@
-# IT35-Lab-05 - App Template Pull Request
+# IT35-Lab-07 - Supabase
 ## Description
 
 **Objectives**
